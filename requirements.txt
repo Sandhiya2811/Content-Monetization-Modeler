@@ -1,7 +1,10 @@
+streamlit
 pandas
 numpy
-sql
-matplotlib
-seaborn
 plotly
-steamlit
+matplotlib
+scikit-learn
+mysql-connector-python
+sqlalchemy
+pymysql
+psycopg2-binary
